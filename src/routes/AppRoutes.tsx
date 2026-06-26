@@ -9,11 +9,12 @@ import PublicRoute from "./PublicRoute";
 import RoleRoute from "./RoleRoute";
 
 // Pages
-import HomePage from "@/pages/HomePage";
+// import HomePage from "@/pages/HomePage";
 import LoginPage from "@/pages/LoginPage";
 import DashboardPage from "@/pages/DashboardPage";
 import NotFoundPage from "@/pages/NotFoundPage";
 import RegisterPage from "@/pages/RegisterPage";
+import HomePage from "../pages/HomePage";
 
 export const router = createBrowserRouter([
     {
